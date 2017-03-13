@@ -165,7 +165,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/markw/proprietary/lib64/hw/audio.primary.msm8953.so:system/lib64/hw/audio.primary.msm8953.so \
     vendor/xiaomi/markw/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
     vendor/xiaomi/markw/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
-    vendor/xiaomi/markw/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
+    vendor/xiaomi/markw/proprietary/lib64/hw/fingerprint.goodix.msm8953.so:system/lib64/hw/fingerprint.goodix.so \
     vendor/xiaomi/markw/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/xiaomi/markw/proprietary/lib64/libcom_fingerprints_service.so:system/lib64/libcom_fingerprints_service.so \
     vendor/xiaomi/markw/proprietary/lib64/libfp_client.so:system/lib64/libfp_client.so \
